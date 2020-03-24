@@ -1,0 +1,33 @@
+passphrase bich
+-------------------------------------------------------------
+git clone + link
+-------------------------------------------------------------
+git checkout branch -b branch_name
+-------------------------------------------------------------
+Code 
+git status
+File do la dc tao
+File xanh la da dc add 
+-------------------------------------------------------------
+git add .
+git commit -m"Description func name"
+git push origin branch_name
+-------------------------------------------------------------
+Co comment tren github, hoac commit roi ra ngoai
+*Neu da co commit roi (dung git log --oneline kiem tra) 
+Se commit de len commit cu (De chi 1 commit duy nhat)
+git commit --amend --no-edit
+-------------------------------------------------------------
+*Neu da push va tao pull request roi thi
+git push origin branch_name -f
+-------------------------------------------------------------
+Kiem tra branch co may commit roi
+git log --oneline
+-------------------------------------------------------------
+Muon gop commit
+git reset --soft HEAD~n (reset so n commit moi nhat), n = so commit muon gop lai 
+git status
+git add .
+git commit -m"Description func name"
+-------------------------------------------------------------
+
